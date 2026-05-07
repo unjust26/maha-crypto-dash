@@ -20,24 +20,6 @@ export function LandingPage() {
       <div className="absolute bottom-20 right-1/4 w-96 h-96 bg-cyan-500/8 rounded-full blur-[128px] animate-pulse [animation-delay:1s]" />
 
       <div className="relative z-10">
-        {/* Nav */}
-        <nav className="flex items-center justify-between px-6 py-4 max-w-7xl mx-auto">
-          <div className="flex items-center gap-2.5">
-            <div className="w-9 h-9 rounded-lg bg-green-500 flex items-center justify-center">
-              <Activity className="w-5 h-5 text-white" />
-            </div>
-            <span className="font-bold text-lg tracking-tight">CryptoPulse</span>
-          </div>
-          <div className="flex items-center gap-3">
-            <Button variant="ghost" size="sm" asChild>
-              <Link to="/login">Sign in</Link>
-            </Button>
-            <Button size="sm" asChild className="bg-green-500 hover:bg-green-600 text-white">
-              <Link to="/signup">Get Started</Link>
-            </Button>
-          </div>
-        </nav>
-
         {/* Hero */}
         <section className="max-w-7xl mx-auto px-6 pt-20 pb-16 text-center">
           <div className="inline-flex items-center gap-2 bg-green-500/10 border border-green-500/20 rounded-full px-4 py-1.5 mb-6">

@@ -1,0 +1,22 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://localhost:4173",
+      "localStorage": [
+        {
+          "name": "__convexAuthJWT_httpsgiantferret275convexcloud",
+          "value": "eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJqeDczODRnN3g4ZnBhNDQ2N3dreGMybjlzbjg2NTk2YnxqaDdlbmIyaDBoOG1hYng0ZDN0d3JudHRlbjg2NGR3MCIsImlhdCI6MTc3Nzk5NDkzNSwiaXNzIjoiaHR0cHM6Ly9naWFudC1mZXJyZXQtMjc1LmNvbnZleC5zaXRlIiwiYXVkIjoiY29udmV4IiwiZXhwIjoxNzc3OTk4NTM1fQ.eYvw0SDXxIPRlrNxUawMg3QzTJbBZrmVW9tN38zJmZnyWmILT3xhIT985zya0Pk1Wwm-TfKrUNFuuQg7bORv3lgk3z_40CJC5TesXuWLlUVe86fp2HiHNP7f4hrmE93Aoy7fqO6ulfZwpxx0nO3Zs2Cz5yquy7I3JmbiEworSrmMsaIBF7GWO_Ob2AllW4KLPu-uQ2lE_qNCjoo_3rXMpjLH0SP3o0DysZnURtrmFHAZqSntBGd8kSJlWXvdfz77cB-H3hAzyWVh44n5npbwUoLrN7SrwH9L3euVnLXQZC7LO21MGHaZup7LxZI51zn_ozik9CAG60izNMs7yb3vHA"
+        },
+        {
+          "name": "theme",
+          "value": "dark"
+        },
+        {
+          "name": "__convexAuthRefreshToken_httpsgiantferret275convexcloud",
+          "value": "jd7ap52y99myjr1160cmhksb05864pds|jh7enb2h0h8mabx4d3twrntten864dw0"
+        }
+      ]
+    }
+  ]
+}
